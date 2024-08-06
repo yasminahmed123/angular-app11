@@ -1,0 +1,19 @@
+.navbar{
+    background-color: #2C3E50    ;
+   
+}
+.navbar-brand{
+    font-size: 32px; 
+    font-weight: 800;
+}
+.nav-link{
+    font-size: 16PX;
+    font-weight: 700;
+}
+.btn{
+    border: #1ABC9C 3px solid;
+    border-radius: 10px;
+    background-color: #1ABC9C
+    ;
+    color:white;
+}

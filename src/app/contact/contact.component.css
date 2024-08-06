@@ -1,0 +1,22 @@
+.header-sater{
+    width:90px;
+    height:2px;
+    background-color: #2C3E50
+    ;
+}
+h2{
+    color: #2C3E50    ;
+    font-size: 50px;
+    font-weight: 900;
+}
+
+.form-control {
+    border: none;
+    box-shadow: none;  }
+button{
+border: #1ABC9C 5px solid;
+    border-radius: 20px;
+    background-color: #1ABC9C
+    ;
+    color:white;
+}
